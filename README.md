@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/byGia/byGia/main/my-banner-gia.png" alt="byGia banner" width="1200px" />
+<img src="https://raw.githubusercontent.com/byGia/byGia/main/banner.gif" alt="byGia banner" width="1200px" />
 
 ---
 <p align="center">
